@@ -1,19 +1,24 @@
-<h1 align="center">Hi , I'm Marcos kaynan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--Aqui mim apresento-->
+<h1 align="center">Faaaala dev, Marcos Aqui! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<!--Aqui é uma animação de maquina de escrever sobre minha habidades-->
 <p align="center">
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia"></a>
-</p>
+</p> 
+
 <hr/>
+<!--Aqui é uma breve descrição sobre mim-->
 <h4 align="center">Estou atualmente no segundo ano do ensino médio e estou cursando Redes de Computadores no IEMA. Tenho a oportunidade de explorar conceitos e técnicas relacionados à comunicação e interconexão de sistemas. Estou aprendendo sobre o design, implementação e gerenciamento de redes, além de adquirir conhecimentos sobre segurança cibernética e solução de problemas em ambientes de rede. Estou entusiasmado em desenvolver habilidades práticas e teóricas nessa área em constante evolução.</h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=MarcoskDev&label=MarcoskDev's%20Profile%20Views%20&color=dc143c&style=plastic" alt="MarcoskDev" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=MarcoskDev&label=%20Visualizações%20do%20perfil%20de%20MarcosDev%20&color=dc143c&style=plastic" alt="MarcoskDev" /> </p>
 
-## 🔥 Streak Stats
+## 🔥 Estatísticas de sequência
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MarcoskDev&theme=algolia" alt="MarcoskDev" /></p>
 
-## 🛠️ My Skills
+## 🛠️ Minhas habilidades
 
-### 👉 Programming languages
+### 👉 Linguagens de programação
 
 <p align="left"> 
   &emsp; 
@@ -43,7 +48,7 @@
 &emsp; 
 </p>
 
-### 👉 Frontend Development
+### 👉 Desenvolvimento front-end
 
 <p align="left"> 
   &emsp; 
@@ -61,7 +66,7 @@
 &emsp; 
 </p>
 
-### 👉 Databases & Cloud Hosting
+### 👉 Bancos de dados e hospedagem em nuvem
 
 <p align="left">
   &emsp;
@@ -86,7 +91,7 @@
 </p>
 
 
-### 👉Graphic Designing
+### 👉 Design Gráfico
 <p align="left">
   &emsp;  
    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
@@ -111,7 +116,7 @@
 &emsp; 
  </p>
 
-### 👉 Software & Tools
+### 👉 Software e ferramentas
 
 <p>
   &emsp;
@@ -137,10 +142,10 @@
 
 <br/>
 
-## 📊 Github Stats (Expand to View)
+## 📊 Estatísticas do Github (expandir para visualizar)
 
 <details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <summary><b>💻 Estatísticas do perfil do GitHub</b></summary>
   <br/>
   <p align="center">
     <a href="https://github.com/MarcoskDev"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MarcoskDev&show_icons=true&locale=en&theme=algolia" alt="MarcoskDev" height="192px"/></a>
@@ -149,21 +154,21 @@
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcoskDev&show_icons=true&locale=en&layout=compact&theme=algolia" alt="MarcoskDev" height="192px"/>
 	</p>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <b>Observação: </b>Os principais idiomas são apenas uma métrica dos idiomas em que meu código público consiste e não refletem experiência ou nível de habilidade.
   </p>
 </details>
 
 <details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <summary><b>⚡ Atividade recente do GitHub</b></summary>
   <br/>
-	<a href="https://github.com/MarcoskDev"><img alt="MarcoskDev Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=MarcoskDev&custom_title=MarcoskDev%20Noronha's%20Contribution%20Graph&theme=react-dark" /></a>
+	<a href="https://github.com/MarcoskDev"><img alt="Gráfico de atividades do MarcoskDev" src="https://github-readme-activity-graph.vercel.app/graph?username=MarcoskDev&custom_title=Gráfico%20de%20Contribuição%20de%20Marcosdev&theme=react-dark" /></a>
   <br/>
 
 </details>
 
 <br/>
 
-## 🙋‍♀️ Let's Connect
+## 🙋‍♀️ Vamos nos conectar
 
 <p align="center">
   <a href="https://candida18.github.io/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
@@ -176,4 +181,4 @@
 	
 </p>
 
-<!--img align="right" alt="Coding" width="450" src="https://camo.githubusercontent.com/6607041227d81f650340ff070cc2843518acad359b57e5bb054a9fb7127aa041/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323634363432332f73637265656e73686f74732f353530373139362f636f6d70757465722e676966" data-canonical-src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" style="max-width:100%;"/-->
+<img align="right" alt="Coding" width="450" src="https://camo.githubusercontent.com/6607041227d81f650340ff070cc2843518acad359b57e5bb054a9fb7127aa041/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323634363432332f73637265656e73686f74732f353530373139362f636f6d70757465722e676966" data-canonical-src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" style="max-width:100%;"/>
