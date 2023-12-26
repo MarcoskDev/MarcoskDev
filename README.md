@@ -6,7 +6,7 @@
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Desenvolvedor+Web;%20Designer%20gráfico;&center=true&width=500&height=50&font=georgia"></a>
 </p> 
 
-<hr/>
+<hr>
 <!--Aqui é uma breve descrição sobre mim-->
 <h4 align="center">Estou atualmente no segundo ano do ensino médio e estou cursando Redes de Computadores no IEMA. Tenho a oportunidade de explorar conceitos e técnicas relacionados à comunicação e interconexão de sistemas. Estou aprendendo sobre o design, implementação e gerenciamento de redes, além de adquirir conhecimentos sobre segurança cibernética e solução de problemas em ambientes de rede. Estou entusiasmado em desenvolver habilidades práticas e teóricas nessa área em constante evolução.</h4>
 <br>
