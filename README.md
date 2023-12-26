@@ -3,7 +3,7 @@
 
 <!--Aqui é uma animação de maquina de escrever sobre minha habidades-->
 <p align="center">
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia"></a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Desenvolvedor+Web;%20Designer%20gráfico;&center=true&width=500&height=50&font=georgia"></a>
 </p> 
 
 <hr/>
