@@ -189,10 +189,10 @@
 
 <br/>
 
-## 🙋‍♀️ Vamos nos conectar
+<h2 align="center">Vamos nos conectar</h2>
 
 <p align="center">
     <a href="https://youtube.com/@marcosdev9391?si=NspW9KD54tuEGqnR"><img src="https://img.shields.io/badge/youtuber-E4405F.svg?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-    <a href="https://www.instagram.com/cryptonhacker_/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>	
+    <a href="https://www.instagram.com/cryptonhacker_/"><img src="https://img.shields.io/badge/instagram-0077B5.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>	
 </p>
 
