@@ -1,5 +1,5 @@
 <!--Banner-->
-<img align="right" alt="Coding" width="450" src="https://camo.githubusercontent.com/6607041227d81f650340ff070cc2843518acad359b57e5bb054a9fb7127aa041/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323634363432332f73637265656e73686f74732f353530373139362f636f6d70757465722e676966" data-canonical-src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" style="max-width:100%;"/>
+<img src="https://github.com/MarcoskDev/MarcoskDev/assets/154840423/a7408356-d934-4a8d-bf2c-a5ee9bf611de"/>
 
 <!--Aqui mim apresento-->
 <h1 align="center">Faaaala dev, Marcos Aqui! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
@@ -14,6 +14,15 @@
 <h4 align="center">Estou atualmente no segundo ano do ensino médio e estou cursando Redes de Computadores no IEMA. Tenho a oportunidade de explorar conceitos e técnicas relacionados à comunicação e interconexão de sistemas. Estou aprendendo sobre o design, implementação e gerenciamento de redes, além de adquirir conhecimentos sobre segurança cibernética e solução de problemas em ambientes de rede. Estou entusiasmado em desenvolver habilidades práticas e teóricas nessa área em constante evolução.</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=MarcoskDev&label=%20Visualizações%20do%20perfil%20de%20MarcosDev%20&color=dc143c&style=plastic" alt="MarcoskDev" /> </p>
+
+<h2 align="center">Ciclo de Código</h2>
+<div align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/>
+</div>
 
 ## 🔥 Estatísticas de sequência
 
@@ -63,9 +72,9 @@
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
   </a> 
    &emsp;
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
-  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
+   </a>
    &emsp;
   <a href="https://getbootstrap.com" target="_blank"> 
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
@@ -141,8 +150,8 @@
     <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-  <!--&emsp;
-    <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=flate&logo=markdown&logoColor=white"></a>
+    &emsp;
+    <!--<a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=flate&logo=markdown&logoColor=white"></a>
   &emsp;-->
     <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
   &emsp;
@@ -183,13 +192,7 @@
 ## 🙋‍♀️ Vamos nos conectar
 
 <p align="center">
-  <a href="https://candida18.github.io/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
-	<a href="mailto:candida.noronha18@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/Candida18"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://linkedin.com/in/candida-noronha-b019101ab"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/candida.noronha.77"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://instagram.com/candyyyy__18"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://www.youtube.com/channel/UC7V1Gm8V0kRLp_EHB8aDj2A"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
-	
+    <a href="https://youtube.com/@marcosdev9391?si=NspW9KD54tuEGqnR"><img src="https://img.shields.io/badge/youtuber-E4405F.svg?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+    <a href="https://www.instagram.com/cryptonhacker_/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>	
 </p>
 
